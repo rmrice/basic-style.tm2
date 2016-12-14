@@ -1,0 +1,26 @@
+_prefs: 
+  mapid: ''
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -87.2026
+  - 36.0036
+  - 10
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 18
+minzoom: 0
+name: ''
+source: "mapbox:///mapbox.mapbox-streets-v7"
+styles: 
+  - style.mss
+  - roads.mss
+template: ''

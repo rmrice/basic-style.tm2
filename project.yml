@@ -9,16 +9,16 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - -87.2026
-  - 36.0036
-  - 10
+  - -88.1982
+  - 30.6568
+  - 5
 description: ''
 format: "png8:m=h"
 interactivity_layer: ''
 layers: null
 maxzoom: 18
 minzoom: 0
-name: ''
+name: Basic Map
 source: "mapbox:///mapbox.mapbox-streets-v7"
 styles: 
   - style.mss
